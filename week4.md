@@ -1,0 +1,1 @@
+In week 4, i leared the concepts of IaC for infrastructure provisioning using code. I used IaC tool terraform to accomplish same. Terraform files created during this tutorial are updated in this repository.
